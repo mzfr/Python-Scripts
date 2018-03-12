@@ -1,0 +1,5 @@
+print("This is just to check the working of travis buddy ")
+Print("ERROR: This an error")
+Print("LOG: This is just a log")
+Print("CRITICAL: This is a critical condition")
+Print("WARNING: THIS IS just a warning")

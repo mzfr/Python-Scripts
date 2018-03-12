@@ -1,0 +1,5 @@
+language: python
+python:
+    - "3"
+notifications:
+    webhooks: https://www.travisbuddy.com/
