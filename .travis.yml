@@ -1,5 +1,5 @@
 language: python
 
 notifications:
-    webhooks: https://www.travisbuddy.com/
+    webhooks: https://www.travisbuddy.com?failureTemplate=raw
 script: python travis_comment.py
