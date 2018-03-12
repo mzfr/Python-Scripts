@@ -2,3 +2,4 @@ language: python
 
 notifications:
     webhooks: https://www.travisbuddy.com/
+script: python travis_comment.py
